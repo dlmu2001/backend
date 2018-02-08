@@ -8,3 +8,4 @@
         
         CREATE DATABASE IF NOT EXISTS yourdbname DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
 
+* [腾讯云上安装tomcat](http://blog.csdn.net/huangzonggui/article/details/64130575)
