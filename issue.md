@@ -11,3 +11,5 @@
 * [腾讯云上安装tomcat](http://blog.csdn.net/huangzonggui/article/details/64130575)
 
 * [Create a deployable war file](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#howto-create-a-deployable-war-file)
+
+*[Ubuntu16.04安装Redis](http://blog.csdn.net/qq_30242609/article/details/52913145)
