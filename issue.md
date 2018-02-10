@@ -9,3 +9,5 @@
         CREATE DATABASE IF NOT EXISTS yourdbname DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
 
 * [腾讯云上安装tomcat](http://blog.csdn.net/huangzonggui/article/details/64130575)
+
+* [Create a deployable war file](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#howto-create-a-deployable-war-file)
